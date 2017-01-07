@@ -8,6 +8,9 @@ h1 {
   font-weight: 800;
   color: #229922;
 }
+p, li, td {
+  font-size: 16px;
+}
 
 .external-services li {
   list-style: none;
