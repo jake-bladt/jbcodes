@@ -1,9 +1,11 @@
-h1, h2, p, li, td {
+h2, p, li, td {
   font-family: Palanquin;  
 }
 
 h1 {
+  font-family: Courier;
   font-size: 60px;
+  font-weight: 800;
   color: #229922;
 }
 
@@ -11,11 +13,11 @@ h1 {
   font-weight: 100;
   font-size: 60px;
   color: #229922;
-  -webkit-animation: 1s blink step-end infinite;
-  -moz-animation: 1s blink step-end infinite;
-  -ms-animation: 1s blink step-end infinite;
-  -o-animation: 1s blink step-end infinite;
-  animation: 1s blink step-end infinite;
+  -webkit-animation: 2s blink step-end infinite;
+  -moz-animation: 2s blink step-end infinite;
+  -ms-animation: 2s blink step-end infinite;
+  -o-animation: 2s blink step-end infinite;
+  animation: 2s blink step-end infinite;
 }
 
 @keyframes "blink" {
