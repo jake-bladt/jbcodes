@@ -17,6 +17,10 @@ p, li, td {
   font-size: 18px;
 }
 
+.fine-print {
+  font-size: 9px;
+}
+
 .blinking-cursor {
   font-weight: 100;
   font-size: 60px;
